@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include "Questions.h"
+#include "Question1.h"
 
 int successCount;
 int passCount;
